@@ -72,8 +72,8 @@ div {
 }
 
 img {
-    width: 10%;
-    height: 10%;
+    width: 20%;
+    height: 20%;
 
 }
 
@@ -85,7 +85,6 @@ img {
 #usagi {
     position: relative;
     float: left;
-    bottom: 30px;
 }
 
 #momonga {
