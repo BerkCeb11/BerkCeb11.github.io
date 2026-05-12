@@ -1,0 +1,99 @@
+p {
+    font-size: 30px;
+    font-weight: lighter;
+    color:rgba(71, 111, 146, 0.582);
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+header {
+        text-align: left;
+}
+nav a {
+    font-family: Helvetica;
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(255, 255, 255);
+    font-size: 65px;
+    top: 15px;
+    position: absolute;
+    font-weight: bold;
+
+}
+
+.creds a {
+    color:rgba(127, 148, 180, 0.507);
+    background-color: aliceblue;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 25px 25px;
+    text-align: center;
+    
+}
+
+h1 {
+    font-family: Helvetica;
+    color: rgba(146, 167, 185, 0.685);
+    font-weight: bold;
+    font-size: 85px;
+    padding-bottom: 1.5%;
+  
+}
+
+h2 {
+    font-family: Helvetica;
+    color: rgba(146, 167, 185, 0.685);
+    font-size: 60px;
+    padding-bottom: 2%;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: light;
+    color:rgba(71, 111, 146, 0.76);
+}
+
+body {
+    padding-top: 6%;
+    padding-bottom: 3%;
+    background-color: #ffffff;
+    border-color: #FFE5E5;
+    border-style: solid;
+    border-width: 100px;
+    text-align: center;
+}
+
+div {
+    padding: 4%;
+}
+
+.creds div {
+    padding: 2%;
+}
+
+img {
+    width: 10%;
+    height: 10%;
+
+}
+
+#chiikawa {
+    position: relative;
+    float: left;
+}
+
+#usagi {
+    position: relative;
+    float: left;
+    bottom: 30px;
+}
+
+#momonga {
+    position: relative;
+    float: left;
+}
+
+#hachiware {
+    position: relative;
+    float: left;
+}
